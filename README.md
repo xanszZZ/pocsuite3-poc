@@ -56,22 +56,13 @@
 6. 2022/08/04 [绿盟下一代防火墙 resourse.php 任意文件上传漏洞](绿盟/nsfocus_NGFW_resourse.php_arbitrary_file_upload.py)
 
 
-## Goby POC (仅适用于2.0之前的版本，2.0版本导入后会导致查询规则为空，导致poc匹配了所有资产，后面会新开一个仓库写2.0版本的poc)
-[Goby&poc](Goby&poc)
-
 # 使用需知
 由于传播、利用此文所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，作者不为此承担任何责任。
 
-luck-ying 拥有对此库的修改和解释权，不得以任何方式将其用于商业目的。
+本工具仅面向合法授权的企业安全建设行为，如您需要测试本工具的可用性，请自行搭建测试环境。
 
-Goby & EXP 与 POC 仅仅只供对已授权的目标使用测试，对未授权目标的测试，本库不承担责任，均由本人自行承担
+在使用本工具进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权。请勿对非授权目标进行扫描。
 
-![](wx.png)
+如您在使用本工具的过程中存在任何非法行为，您需自行承担相应后果，我们将不承担任何法律及连带责任。
 
-# 2022年6月15日开始 访问次数
 
-![Visitor Count](https://profile-counter.glitch.me/Library-POC/count.svg)
-
-# Star曲线
-
-[![Stargazers over time](https://starchart.cc/luck-ying/Library-POC.svg)](https://starchart.cc/luck-ying/Library-POC)
